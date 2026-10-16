@@ -1,0 +1,5 @@
+Title: Add docs/README.md — centralize project management process docs
+
+This PR adds a top-level README to the docs/ folder that centralizes OctoAcme's project management process documentation. The new README includes a brief overview of OctoAcme's project management lifecycle (Initiation, Planning, Execution, Release, Retrospective), key workflows, roles/personas, communication cadence, QA and release practices, and direct links to all process documents in this folder.
+
+Closes #2
